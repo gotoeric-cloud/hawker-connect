@@ -1,0 +1,13 @@
+{
+  "name": "hawker-connect",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "B2B hawker promotion and trusted food discovery demo",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test",
+    "build": "node build.mjs"
+  },
+  "engines": { "node": ">=22" }
+}
